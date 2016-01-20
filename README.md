@@ -4,7 +4,7 @@ A simple fortran module with my coulomb solvers.
 
 Maybe, this will one day become something important. For now, it is just a way to outsource the coulomb solver(s) we use in MDFT.
 
-Give it :
+Provide it :
 - source coordinates
 - source charges
 - target coordinates
