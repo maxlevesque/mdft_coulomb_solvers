@@ -1,6 +1,6 @@
 # mdft_coulomb_solvers
 
-I am looking for a simple fortran module with my coulomb solvers.
+A simple fortran module with my coulomb solvers.
 
 Maybe, this will one day become something important. For now, it is just a way to outsource the coulomb solver(s) we use in MDFT.
 
